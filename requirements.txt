@@ -6,4 +6,5 @@ matplotlib == 3.7.1
 git+https://github.com/lab-cosmo/librascal.git#4e8f9fb
 ase == 3.22.1 
 tqdm == 4.65.0
-dscribe == 1.2.2 
+dscribe == 1.2.2
+scipts == 2.0 
