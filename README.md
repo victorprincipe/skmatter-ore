@@ -1,2 +1,2 @@
-# Paper-ORE
+# Scikit-Matter ORE Paper
 TODO
