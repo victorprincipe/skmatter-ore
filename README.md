@@ -1,2 +1,2 @@
-# Scikit-Matter ORE Paper
+# Scikit-Matter - ORE Paper Data and Figures
 TODO
