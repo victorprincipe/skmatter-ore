@@ -11,3 +11,4 @@ ase == 3.22.1
 tqdm == 4.65.0
 dscribe == 1.2.2
 pandas == 2.0.0
+seaborn == 0.12.2
