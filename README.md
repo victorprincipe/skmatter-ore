@@ -34,6 +34,7 @@ You can find the notebooks in `paper/`
 - Figure 7: `Ice Selection.ipynb`
 - Figure 8: `WhoDataset-Selection.ipynb`
 - Figure 9: `convex_hull_toy_figure.ipynb`
+- Figure 10: `ice_convex_hull.ipynb`
 
 # License
 
