@@ -33,7 +33,7 @@ You can find the notebooks in `paper/`
 - Figure 6: `WhoDataset-PCovR.ipynb`
 - Figure 7: `Ice Selection.ipynb`
 - Figure 8: `WhoDataset-Selection.ipynb`
-- Figure 9: `convex\_hull\_toy\_figure.ipynb`
+- Figure 9: `convex_hull_toy_figure.ipynb`
 
 # License
 
