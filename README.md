@@ -5,9 +5,8 @@ Jupyter notebooks used to produces results of the paper
 > Goscinski, A, VP Principe, G Fraux, S Kliavinek, BA Helfrecht, P Loche,
   M Ceriotti, and RK Cersonsky. 2023. “Scikit-Matter : A Suite of
   Generalisable Machine Learning Methods Born Out of Chemistry and
-  Materials Science \[Version 1; Peer Review: 1 Approved, 1 Approved with
-  Reservations\].” *Open Research Europe* 3 (81).
-  <https://doi.org/10.12688/openreseurope.15789.1>.
+  Materials Science” *Open Research Europe* 3 (81).
+  <https://doi.org/10.12688/openreseurope.15789.2>.
 
 # Installation
 
